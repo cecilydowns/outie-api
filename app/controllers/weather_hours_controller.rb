@@ -1,0 +1,2 @@
+class WeatherHoursController < ApplicationController
+end
